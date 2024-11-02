@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there👋, Welcome!
+Hi! I am Shariq Mukadam. I am from Bharati Vidyapeeth's IMED persuing Bachelors of Computer Applications(BCA).
 
-<!--
-**IamShariqMukadam/IamShariqMukadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am starting to develop feelings for coding🙄. Currently studying Java.
 
-Here are some ideas to get you started:
+I would love to meet new people, join different communities and competition that involve creating something new and innovative😊.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working to better my coding knowledge.
+- 🌱 I’m currently learning JAVA.
+- 🤔 I’m looking for help to help me guide on App Development.
+- 💬 Ask me whether I am using my time efficiently?
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am currently not using any social media.
