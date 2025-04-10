@@ -7,7 +7,7 @@ I would love to meet new people, join different communities and competitions tha
 
 
 - 🔭 I’m currently working to improve my coding knowledge.
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning Web Development.
 - 🤔 I’m looking for help to help me guide on App Development.
 - 💬 Ask me whether I am using my time efficiently?
 - 😄 Pronouns: He/Him
