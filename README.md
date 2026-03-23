@@ -35,7 +35,7 @@
 <!-- Add your certificates here -->
 
 ## GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=IamShariqMukadam&theme=highcontrast&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://nirzak-streak-stats.vercel.app/?user=IamShariqMukadam&theme=highcontrast&hide_border=false)&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamShariqMukadam&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
