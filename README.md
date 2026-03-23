@@ -1,5 +1,5 @@
-# 💫 About Me:
-Applied AI Engineer (in progress) | ML • DL • GenAI • Agents<br>
+# HI, I am Shariq Mukadam!
+Applied AI/ML Engineer | ML • DL • GenAI • Agents<br>
 
 
 ## 🌐 Socials:
