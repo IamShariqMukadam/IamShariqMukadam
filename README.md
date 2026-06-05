@@ -5,7 +5,7 @@
 
 <!-- HEADER: wave type — dark navy gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=D2042D&text=Shariq%20Mukadam&fontSize=52&desc=AI/ML%20Engineer%20|%20Agentic%20AI%20Builder%20|%20Data%20Analayst&descAlignY=53&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=001EA3&text=Shariq%20Mukadam&fontSize=52&desc=AI/ML%20Engineer%20|%20Agentic%20AI%20Builder%20|%20Data%20Analayst&descAlignY=53&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
 
@@ -144,5 +144,5 @@
 
 <!-- FOOTER: wave reversed -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D2042D&fontSize=52&descAlignY=53&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=001EA3&fontSize=52&descAlignY=53&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&section=footer" />
 </p>
