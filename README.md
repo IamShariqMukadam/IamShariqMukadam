@@ -42,7 +42,8 @@
   },
   "fun_fact"  : "Built AI agents to legally negotiate freelance contracts 📑 and scrape 400+ jobs weekly to automate application data 🤖"
 }
-
+```
+---
 ## 🛠️ Tech Stack
 
 <p align="center">
