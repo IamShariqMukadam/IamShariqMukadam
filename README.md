@@ -32,11 +32,10 @@
 <p align="center">
   <img src="neofetch.svg" alt="Shariq Mukadam — Profile" width="100%" />
 </p>
----
+
+
 <div align="center">
-
 ## 🛠️ Tech Stack
-
 </div>
 
 <p align="center">
