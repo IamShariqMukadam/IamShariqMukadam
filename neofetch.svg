@@ -1,8 +1,8 @@
-<svg width="100%" viewBox="0 0 680 390" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="100%" viewBox="0 0 680 396" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Shariq Mukadam — GitHub Profile</title>
   <desc>Neofetch-style profile card with live GitHub stats</desc>
-  <rect width="680" height="390" rx="10" fill="#0D1117"/>
-  <rect x="0.5" y="0.5" width="679" height="389" rx="9.5" fill="none" stroke="#30363D" stroke-width="1"/>
+  <rect width="680" height="396" rx="10" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="679" height="395" rx="9.5" fill="none" stroke="#30363D" stroke-width="1"/>
   <circle cx="22" cy="22" r="6" fill="#FF5F57"/>
   <circle cx="42" cy="22" r="6" fill="#FFBD2E"/>
   <circle cx="62" cy="22" r="6" fill="#28CA41"/>
@@ -20,6 +20,7 @@
   <text font-family="'Courier New',Courier,monospace" font-size="13"><tspan x="24" y="250" fill="#26C6DA">wip[2]</tspan><tspan fill="#3D3D3D"> ....... </tspan><tspan fill="#D4D4D4">cinematch-backend</tspan></text>
   <text font-family="'Courier New',Courier,monospace" font-size="13"><tspan x="24" y="272" fill="#26C6DA">fun_fact</tspan><tspan fill="#3D3D3D"> ..... </tspan><tspan fill="#D4D4D4">Built AI agents that negotiate contracts + scrape 400+ jobs</tspan></text>
   <text font-family="'Courier New',Courier,monospace" font-size="13"><tspan x="24" y="300" fill="#6E7681">- </tspan><tspan fill="#D4D4D4">GitHub Stats </tspan><tspan fill="#6E7681">------------------------------------------------.--</tspan></text>
-  <text font-family="'Courier New',Courier,monospace" font-size="13"><tspan x="24" y="322" fill="#6E7681">  . </tspan><tspan fill="#26C6DA">Repos</tspan><tspan fill="#3D3D3D">: .... </tspan><tspan fill="#D4D4D4">7 </tspan><tspan fill="#CE9178">{Contributed: 7}</tspan><tspan fill="#6E7681"> | </tspan><tspan fill="#26C6DA">Stars</tspan><tspan fill="#3D3D3D">: ... </tspan><tspan fill="#D4D4D4">0</tspan></text>
-  <text font-family="'Courier New',Courier,monospace" font-size="13"><tspan x="24" y="344" fill="#6E7681">  . </tspan><tspan fill="#26C6DA">Commits</tspan><tspan fill="#3D3D3D">: .... </tspan><tspan fill="#D4D4D4">78</tspan><tspan fill="#6E7681">   | </tspan><tspan fill="#26C6DA">Followers</tspan><tspan fill="#3D3D3D">: ... </tspan><tspan fill="#D4D4D4">1</tspan></text>
+  <text font-family="'Courier New',Courier,monospace" font-size="13"><tspan x="24" y="322" fill="#6E7681">  . </tspan><tspan fill="#26C6DA">Repos</tspan><tspan fill="#3D3D3D">: .... </tspan><tspan fill="#D4D4D4">7 </tspan><tspan fill="#CE9178">{Contributed: 7}</tspan><tspan x="380" fill="#6E7681"> | </tspan><tspan fill="#26C6DA">Stars</tspan><tspan fill="#3D3D3D">: ... </tspan><tspan fill="#D4D4D4">0</tspan></text>
+  <text font-family="'Courier New',Courier,monospace" font-size="13"><tspan x="24" y="344" fill="#6E7681">  . </tspan><tspan fill="#26C6DA">Commits</tspan><tspan fill="#3D3D3D">: .... </tspan><tspan fill="#D4D4D4">78</tspan><tspan x="380" fill="#6E7681"> | </tspan><tspan fill="#26C6DA">Followers</tspan><tspan fill="#3D3D3D">: ... </tspan><tspan fill="#D4D4D4">1</tspan></text>
+  <text font-family="'Courier New',Courier,monospace" font-size="13"><tspan x="24" y="366" fill="#CE9178">&apos;i</tspan><tspan fill="#6E7681"> . </tspan><tspan fill="#26C6DA">Lines of Code</tspan><tspan fill="#3D3D3D">: </tspan><tspan fill="#D4D4D4">0 ( </tspan><tspan fill="#4EC9B0">0++</tspan><tspan fill="#D4D4D4">,  </tspan><tspan fill="#F44747">0--</tspan><tspan fill="#D4D4D4"> )</tspan></text>
 </svg>
