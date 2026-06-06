@@ -28,23 +28,16 @@
 ---
 
 ## 👤 About Me
-```json
-{
-  "name"      : "Shariq Mukadam",
-  "title"     : ["AI/ML Engineer", "Data Analyst 📊"],
-  "location"  : "Pune, India 🇮🇳",
-  "education" : "BCA @ BVDU Pune — CGPA: 8.61 / 10",
-  "currently" : "Deploying AI agents & analytics systems that solve real problems",
-  "at_scale"  : {
-    "datasets"  : "10M+ row CPCB/NFHS public health and pollution datasets joined & processed end-to-end",
-    "inference" : "< 150ms multi-modal ReturnSight API deployed via FastAPI with SHAP attribution",
-    "agents"    : "4-agent autonomous LangGraph contract pipeline replacing ₹2L+ legal consultation fees"
-  },
-  "fun_fact"  : "Built AI agents to legally negotiate freelance contracts 📑 and scrape 400+ jobs weekly to automate application data 🤖"
-}
-```
+
+<p align="center">
+  <img src="neofetch.svg" alt="Shariq Mukadam — Profile" width="100%" />
+</p>
 ---
+<div align="center">
+
 ## 🛠️ Tech Stack
+
+</div>
 
 <p align="center">
   <strong>Languages</strong><br>
