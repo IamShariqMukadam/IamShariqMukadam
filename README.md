@@ -107,7 +107,7 @@
 |---------|-------------|-------|
 | [UPI Ecosystem & Financial Inclusion](https://github.com/IamShariqMukadam/upi-financial-inclusion) | ETL pipeline on 5 years of NPCI/RBI government PDFs across 28 states → 3 Power BI dashboards; surfaced **₹4.3L Cr** in untapped digital payment potential concentrated in Bihar, UP, and MP | `Python` `Power BI` `Pandas` `DAX` |
 | [India Road Accident Intelligence](https://github.com/IamShariqMukadam/road-accident-intelligence) | Processed 5 years of MORTH highway records into a 4D accident dataset; revealed night truck accidents are **3.4×** more fatal; flagged NH-48 corridor to quantify **₹340Cr** in projected insurer exposure | `Python` `Power BI` `SciPy` `PyPDF` |
-| [AI Job Market Pulse](https://github.com/IamShariqMukadam/job-market-pulse) | Automated scraper parsing 500+ live weekly postings; Groq LLM layer handles zero-label skill extraction; revealed SQL, Python, and Power BI co-occur in **78%** of Data Analyst roles | `Python` `Selenium` `Groq API` `Streamlit` |
+| [AI Job Market Pulse](https://github.com/IamShariqMukadam/India-analytics-ai-job-market-pulse) | Automated scraper parsing 500+ live weekly postings; Groq LLM layer handles zero-label skill extraction; revealed SQL, Python, and Power BI co-occur in **78%** of Data Analyst roles | `Python` `Selenium` `Groq API` `Streamlit` |
 | [Air Quality & Public Health Correlation](https://github.com/IamShariqMukadam/air-quality-health) | Joined **10M+ rows** of CPCB pollution records with NFHS health survey data; mapped PM2.5/PM10 metrics to hospitalizations to uncover 3 urban clusters running at **2.8×** the national risk baseline | `Python` `SciPy` `Power BI` `Pandas` |
 
 ---
