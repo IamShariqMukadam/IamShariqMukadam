@@ -12,7 +12,7 @@
 <!-- TYPING ANIMATION — what he actually builds, not just the job title -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&y=15&random=false&width=950&lines=Turning+raw+data+into+intelligence;Designing+AI+agents+that+reason%2C+plan%2C+and+act+autonomously;Mitigating+%E2%82%B9340Cr+risk+%C2%B7+Exploring+%E2%82%B94.3L+Cr+fintech+whitespace;Engineering+systems+where+intelligence+drives+execution" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&y=15&random=false&width=950&lines=Turning+raw+data+into+intelligence;Designing+AI+agents+that+reason%2C+plan%2C+and+act+autonomously;Mitigating+%E2%82%B9340Cr+risk+%C2%B7+Exploring+%E2%82%B912%2C417+Cr+fintech+whitespace;Engineering+systems+where+intelligence+drives+execution" alt="Typing SVG" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [UPI Ecosystem & Financial Inclusion](https://github.com/IamShariqMukadam/Upi-Ecosystem-Financial-Inclusion) | ETL pipeline on 77 months of NPCI/RBI government CSVs → PostgreSQL + 5 SQL queries + 3 Power BI dashboards; uncovered 19x volume growth, +647% COVID surge, and UPI's shift to 58% merchant payments | `Python` `SQL` `PostgreSQL` `Power BI` `Pandas` `DAX` |
+| [UPI Ecosystem & Financial Inclusion](https://github.com/IamShariqMukadam/Upi-Ecosystem-Financial-Inclusion) | ETL pipeline on 77 months of NPCI/RBI government CSVs → PostgreSQL + 5 SQL queries + 3 Power BI dashboards; uncovered 19x volume growth, +647% COVID surge, and UPI's shift to 58% merchant payments. Identified ₹12,417 Cr untapped potential across 12 digitally underserved states | `Python` `SQL` `PostgreSQL` `Power BI` `Pandas` `DAX` |
 | [India Road Accident Intelligence](https://github.com/IamShariqMukadam/road-accident-intelligence) | Processed 5 years of MORTH highway records into a 4D accident dataset; revealed night truck accidents are **3.4×** more fatal; flagged NH-48 corridor to quantify **₹340Cr** in projected insurer exposure | `Python` `Power BI` `SciPy` `PyPDF` |
 | [AI Job Market Pulse](https://github.com/IamShariqMukadam/India-analytics-ai-job-market-pulse) | Automated scraper parsing 500+ live weekly postings; Groq LLM layer handles zero-label skill extraction; revealed SQL, Python, and Power BI co-occur in **78%** of Data Analyst roles | `Python` `Selenium` `Groq API` `Streamlit` |
 | [Air Quality & Public Health Correlation](https://github.com/IamShariqMukadam/air-quality-health) | Joined **10M+ rows** of CPCB pollution records with NFHS health survey data; mapped PM2.5/PM10 metrics to hospitalizations to uncover 3 urban clusters running at **2.8×** the national risk baseline | `Python` `SciPy` `Power BI` `Pandas` |
