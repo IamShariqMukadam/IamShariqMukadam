@@ -18,12 +18,14 @@
 
 <!-- CONTACT BADGES -->
 <p align="center">
-  <a href="mailto:shariqmukadam.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-shariqmukadam.work-EA4335?style=for-the-badge&logo=gmail&logoColor=white&v=2" /></a>
-  <a href="https://linkedin.com/in/shariq-mukadam"><img src="https://img.shields.io/badge/LinkedIn-shariq--mukadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2" /></a>
-  <a href="https://shariqmukadam.dev"><img src="https://img.shields.io/badge/Portfolio-shariqmukadam.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&v=2" /></a>
-  <img src="https://img.shields.io/badge/Pune%2C%20India-Open%20to%20Work-00ACC1?style=for-the-badge&logo=google-maps&logoColor=white&v=2" />
+  <a href="mailto:shariqmukadam.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-shariqmukadam.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shariq-mukadam"><img src="https://img.shields.io/badge/LinkedIn-shariq--mukadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://shariqmukadam.dev"><img src="https://img.shields.io/badge/Portfolio-shariqmukadam.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Pune%2C%20India-Open%20to%20Work-00ACC1?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=IamShariqMukadam&label=PROFILE+VIEWS&color=006064&style=for-the-badge" />
 </p>
+
+
 
 ---
 
