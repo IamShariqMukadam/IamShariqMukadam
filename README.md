@@ -97,7 +97,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [FreelanceContractAgent](https://github.com/IamShariqMukadam/FreelanceContractAgent) | 4-agent LangGraph pipeline — clause classification → counter-proposals → scope creep monitoring → dispute evidence compilation; targets 56M Indian freelancers, replaces ₹2L lawyer fees per dispute | `LangGraph` `FastAPI` `Streamlit` `pdfplumber` |
-| [ReturnSight](https://github.com/IamShariqMukadam/ReturnSight) | Built a multi-modal ML model that predicts return probability for e-commerce listings — fusing CLIP image embeddings, review-description consistency scores, and seller history via LightGBM. Served as a sub-150ms FastAPI endpoint with SHAP explainability per prediction.| `CLIP` `sentence-transformers` `LightGBM` `PyTorch` `FastAPI` `SHAP` |
+| [ReturnSight](https://github.com/IamShariqMukadam/ReturnSight) | Built a multi-modal ML pipeline predicting return probability for e-commerce listings — fusing CLIP image embeddings, review-description mismatch scores, and tabular rating signals via PyTorch attention fusion + LightGBM. Served as a FastAPI endpoint with SHAP explainability per prediction. AUC-ROC: 0.83.| `CLIP` `sentence-transformers` `LightGBM` `PyTorch` `FastAPI` `SHAP` |
 | [JobHarvestor](https://github.com/IamShariqMukadam/JobHarvestor) | AI agent scraping 200+ live postings across LinkedIn/Naukri/Internshala; LLM extraction layer outputs structured skill frequency heatmap + personalized gap analysis in Excel | `Playwright` `LangChain` `BeautifulSoup` `OpenPyXL` |
 
 
